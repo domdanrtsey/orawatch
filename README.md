@@ -23,6 +23,7 @@
    
    system用户解锁语句：
    SQL> alter user system account unlock;
+   alter user system identified by yourpassword;
    ```
 
 2. 执行完巡检之后，将在脚本所在的路径下生成html巡检结果报告，如下
