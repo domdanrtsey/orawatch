@@ -1,4 +1,7 @@
 #!/bin/bash
+# script_name: orawatch.sh
+# Author: Danrtsey.Shun
+# Email:mydefiniteaim@126.com
 # usage:
 # chmod +x orawatch.sh
 # export ORACLE_SID=orcl
